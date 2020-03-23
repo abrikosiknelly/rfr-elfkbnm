@@ -93,7 +93,7 @@ position:absolute;}
 vertical-align:middle;
 button{
 background-color:#1400FF;
-border: 6px solid #1400FF;
+border: 12px solid #1400FF;
 text-align:center;
 text-decoration:none;
 display:inline-block;
