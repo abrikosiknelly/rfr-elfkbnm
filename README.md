@@ -27,7 +27,7 @@ abrikosikHistory
 <p> <img src="иллюстрация.png" width="360" height="260"> </p>
 <hr color="242121">
 
-{
+a{
   list-style: none; /*убираем маркеры списка*/
   margin: 0; /*убираем верхнее и нижнее поле, равное 1em*/
   padding-left: 0; /*убираем левый отступ, равный 40px*/
