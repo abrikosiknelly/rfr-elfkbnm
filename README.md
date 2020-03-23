@@ -90,10 +90,11 @@ display:inline;
 margin: 0;
 position:absolute;}
 .knopka{
+text-color:#ffffff
 vertical-align:middle;
 button{
 background-color:#1400FF;
-border: 12px solid #1400FF;
+border: 20px solid #1400FF;
 text-align:center;
 text-decoration:none;
 display:inline-block;
